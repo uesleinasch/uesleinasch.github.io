@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.uesleinasch.medidor",
+      "sha256_cert_fingerprints": [
+        "15:65:90:4B:9D:74:9B:ED:E9:BE:4D:67:A0:87:78:09:3E:68:12:7E:BF:34:FC:C0:77:F4:33:4A:8D:E3:F7:B8"
+      ]
+    }
+  }
+]
